@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/LED_test/bin/ARM/Release/LED_test.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/pi/projects/LED_test/obj/ARM/Release/main.o -lwiringPi

@@ -1,0 +1,10 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.1.103”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  main.c
+  正在链接对象
+  LED_test.vcxproj -> C:\Users\lxbpx\source\repos\Mythologyli\Raspberry-Pi-Projects\LED_test\bin\ARM\Release\LED_test.out
+  正在调用“gpio export 17 out”，工作目录:“/home/pi/projects/LED_test/”
